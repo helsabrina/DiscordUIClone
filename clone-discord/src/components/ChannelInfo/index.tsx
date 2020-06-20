@@ -1,10 +1,10 @@
 import React from 'react';
-import { Container, HastagIcon, Title, Separator, Description } from './styles';
+import { Container, HashtagIcon, Title, Separator, Description } from './styles';
 
 const ChannelInfo: React.FC = () => {
     return (
         <Container>
-            <HastagIcon />
+            <HashtagIcon />
 
             <Title>chat-livre</Title>
 
