@@ -6,7 +6,7 @@ export interface Props {
     selected?: boolean;
     isHome?: boolean;
     hasNotifications?: boolean;
-    mentions?: Number;
+    mentions?: number;
 }
 
 const ServerButton: React.FC<Props> = ({
