@@ -7,6 +7,7 @@ const Layout: React.FC = () => {
     return (
         <Grid>
             <ServerList />
+            <ServerName />
         </Grid>
     )
 };
