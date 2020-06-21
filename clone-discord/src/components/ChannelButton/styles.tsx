@@ -33,8 +33,16 @@ export const Container = styled.div`
         > div span {
             color: var(--white);
         }
-        
+
+        > div:nth-child(2) svg {
+            display: inherit;
+        }         
+                   
     }
+    
+    > div:nth-child(2) svg {
+            display: none;
+    } 
 
 `;
 
