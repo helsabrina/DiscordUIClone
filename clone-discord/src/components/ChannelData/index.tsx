@@ -42,7 +42,6 @@ const ChannelData: React.FC = () => {
                             <Mention>Helen Sabrina</Mention>, coloca sua playlist favorita para tocar!
                         </>
                     }
-                    hasMention
                     isBot
                 />
 

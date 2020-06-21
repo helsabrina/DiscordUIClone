@@ -92,6 +92,6 @@ export const Avatar = styled.div`
     background-color: var(--primary);
 
     &.bot {
-        background-color: var(--mention-detail);
+        background-color: var(--discord);
     }
 `;

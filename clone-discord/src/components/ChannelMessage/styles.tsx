@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import me from '../../assets/me.png';
 //import { ExpandMore } from 'styled-icons/material'
 
 export const Container = styled.div`
@@ -26,13 +27,16 @@ export const Container = styled.div`
 export const Avatar = styled.div`
     width: 40px;
     height: 40px;
+    min-width: 40px;
 
     background-color: var(--secondary);
-    /* background-image: url(../../assets/me.png); */
+    background-image: url(${me});
     border-radius: 50%;
 
     &.bot {
-        background-color: var(--mention-detail);
+        min-width: 40px;
+        background-color: var(--discord);
+        background-image: none;
     }
    
 `;

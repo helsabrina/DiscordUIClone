@@ -1,6 +1,5 @@
 ## :memo: Sobre
 <p>Se trata de um clone do layout do aplicativo "Discord" </strong>.</p> 
-<p>A aplicação tem o objetivo de ajudar cada Green Angels a administrar de forma rápida as maquininhas (terminais).</p>
 
 ## :computer: Tecnologias utilizadas
 <ul>
