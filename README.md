@@ -17,12 +17,9 @@
 :arrow_right: Abra a pasta do repositório em sua IDE de desenvolvimento.
 
 :arrow_right: Em seguida abra o terminal na sua IDE. Para poder abrir a pasta que contém nossa api, digite:<br>
-`cd clone-discord`
-
-:arrow_right: Em seguida digite:<br>
 `npm install`
 
-:arrow_right: E depois:<br>
+:arrow_right: Em seguida:<br>
 `npm start`
 
 :arrow_right: E abra http://localhost:3000/ para poder visualizar a aplicação. 
