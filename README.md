@@ -5,12 +5,13 @@
 <ul>
 	<li>React</li>
 	<li>styled-components</li>
+	<li>TypeScript</li>
 </ul>
 
 ## :heavy_check_mark: Pré-requisitos
 É necessário que você tenha o ambiente configurado para rodar a aplicação. Para isso instale o React. <strong>Caso já tenha instalado, verifique a versão</strong>.
 
- ## ![gif](https://github.com/helsabrina/DesafioApiMentoria/blob/master/demo/a.gif)
+ ## ![gif](https://github.com/helsabrina/DiscordUIClone/blob/master/demo/ui-clone.gif)
 
 ## :bookmark_tabs: Manual
 :arrow_right: Abra a pasta do repositório em sua IDE de desenvolvimento.
