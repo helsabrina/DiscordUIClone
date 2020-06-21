@@ -13,14 +13,14 @@ export const Button = styled.button<Props>`
 
     margin-bottom: 8px;
 
-    background-color: ${props => props.isHome ? 'var(--rocketseat)' : 'var(--primary)'};
+    background-color: ${props => props.isHome ? 'var(--white)' : 'var(--primary)'};
 
     position: relative;
     cursor: pointer;
 
     > img {
-        width: 24px;
-        height: 24px;
+        width: 42px;
+        height: 42px;
     }
 
     &::before {
