@@ -19,7 +19,7 @@ const ChannelData: React.FC = () => {
         <Container>
             <Messages ref={messagesRef}>
 
-                {Array.from(Array(4).keys()).map((n) => (
+                {Array.from(Array(8).keys()).map((n) => (
                     <ChannelMessage
                         author="Music"
                         date="26/08/2020"
@@ -31,7 +31,7 @@ const ChannelData: React.FC = () => {
                 <ChannelMessage 
                     author="Helen Sabrina"
                     date="26/08/2020"
-                    content="Hoje é meu aniversário"
+                    content="Hoje é meu aniversário <3"
                 />
 
                 <ChannelMessage 
