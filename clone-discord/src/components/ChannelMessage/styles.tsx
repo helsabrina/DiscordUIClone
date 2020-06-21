@@ -27,13 +27,14 @@ export const Avatar = styled.div`
     width: 40px;
     height: 40px;
 
-    background-image: url(../../assets/me.png);
+    background-color: var(--secondary);
+    /* background-image: url(../../assets/me.png); */
     border-radius: 50%;
 
     &.bot {
         background-color: var(--mention-detail);
     }
-    
+   
 `;
 
 export const Message = styled.div`
