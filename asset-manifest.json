@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/discord-ui-clone/static/js/main.3f1e254d.chunk.js",
+    "main.js.map": "/discord-ui-clone/static/js/main.3f1e254d.chunk.js.map",
+    "runtime-main.js": "/discord-ui-clone/static/js/runtime-main.dbdfda64.js",
+    "runtime-main.js.map": "/discord-ui-clone/static/js/runtime-main.dbdfda64.js.map",
+    "static/js/2.a31c7468.chunk.js": "/discord-ui-clone/static/js/2.a31c7468.chunk.js",
+    "static/js/2.a31c7468.chunk.js.map": "/discord-ui-clone/static/js/2.a31c7468.chunk.js.map",
+    "index.html": "/discord-ui-clone/index.html",
+    "precache-manifest.c2f219fdc942a3b752af5c5bb4da3093.js": "/discord-ui-clone/precache-manifest.c2f219fdc942a3b752af5c5bb4da3093.js",
+    "service-worker.js": "/discord-ui-clone/service-worker.js",
+    "static/js/2.a31c7468.chunk.js.LICENSE.txt": "/discord-ui-clone/static/js/2.a31c7468.chunk.js.LICENSE.txt",
+    "static/media/Logo.svg": "/discord-ui-clone/static/media/Logo.7cc4a229.svg",
+    "static/media/me.svg": "/discord-ui-clone/static/media/me.5c35f178.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbdfda64.js",
+    "static/js/2.a31c7468.chunk.js",
+    "static/js/main.3f1e254d.chunk.js"
+  ]
+}
