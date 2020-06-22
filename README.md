@@ -22,4 +22,5 @@
 :arrow_right: Em seguida:<br>
 `npm start`
 
-:arrow_right: E abra http://localhost:3000/ para poder visualizar a aplicação. 
+:arrow_right: E abra http://localhost:3000/ para poder visualizar a aplicação. <br>
+<strong>Projeto hospedado:</strong> https://helsabrina.github.io/DiscordUIClone/
